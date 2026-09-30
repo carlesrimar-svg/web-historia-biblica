@@ -1,0 +1,44 @@
+{
+  "title": "La Terra de Jesús: Viatge a la Geografia Física del Segle I",
+  "subtitle": "Dossier Didàctic d'Exploració Orogràfica, Hidrogràfica i Climàtica per a 3r d'ESO.",
+  "sections": [
+    {
+      "id": "intro",
+      "heading": "Un Territori Petit de Contrasts Gegants",
+      "text": "T'imagines un lloc on puguis passar en menys d'un dia de caminada des de cims de gairebé 3.000 metres coberts de neu fins al punt més profund i asfixiant de tot el planeta Terra? Aquesta petita franja del Llevant mediterrani actuava com un pont orogràfic i comercial decisiu entre les grans potències de l'Antiguitat."
+    },
+    {
+      "id": "galilea",
+      "heading": "Galilea: La Vall Fèrtil del Nord",
+      "text": "Imagina un paisatge verd, verdíssim, xop de rosada al matí, on els turons estan coberts de terrasses d'oliveres, vinyes, camps de blat i figueres. Assentada als peus dels estreps de les muntanyes del Líban, Galilea era la zona més rica, aiguaosa i agrícola."
+    },
+    {
+      "id": "samaria",
+      "heading": "Samaria: La Centralitat Muntanyosa",
+      "text": "A la zona central de Palestina, encaixada exactament entre Galilea al nord i Judea al sud, s'estenia la regió de Samaria. Entre jueus i samaritans existia un odi profund i visceral."
+    },
+    {
+      "id": "judea",
+      "heading": "Judea: La Serralada Àrida i la Ciutat Santa",
+      "text": "Si Galilea era el verd i la vida, Judea era la pedra, la majestuositat i la severitat del desert. Situada al sud de Palestina, era la regió més extensa, muntanyosa i despoblada."
+    }
+  ],
+  "comic": [
+    {
+      "image": "galilea.png",
+      "caption": "Pescadors treballant de valent al mar de Galilea sota un sol radiant."
+    },
+    {
+      "image": "samaria.png",
+      "caption": "Els viatgers creuen ràpidament els turons de Samaria, intentant evitar conflictes."
+    },
+    {
+      "image": "jerusalem.png",
+      "caption": "Els pelegrins arriben finalment a la impressionant ciutat emmurallada de Jerusalem."
+    },
+    {
+      "image": "mar_morta.png",
+      "caption": "El descens fins a la Mar Morta, on l'aigua salada i l'ambient extrem marquen el final de la vall."
+    }
+  ]
+}

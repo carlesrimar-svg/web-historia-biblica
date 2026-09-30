@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "question": "Quina és la longitud aproximada de nord a sud de la franja de Palestina?",
+    "options": ["500 km", "250 km", "100 km", "1.000 km"],
+    "answer": "250 km"
+  },
+  {
+    "id": 2,
+    "question": "Quin cim és el punt més alt de la regió (2.760 metres), les neus del qual alimenten el riu Jordà?",
+    "options": ["Mont Tabor", "Mont Garizim", "Mont Hermon", "Mont Sión"],
+    "answer": "Mont Hermon"
+  },
+  {
+    "id": 3,
+    "question": "A quina altitud respecte al nivell del mar es troba el Llac de Genesaret (Mar de Galilea)?",
+    "options": ["A 100 metres per sobre", "Al nivell del mar (0 m)", "Unes 210 metres sota el nivell del mar", "A 500 metres sota el nivell del mar"],
+    "answer": "Unes 210 metres sota el nivell del mar"
+  },
+  {
+    "id": 4,
+    "question": "Quina regió se trobava al nord de Palestina, sent la més verda, fèrtil i agrícola?",
+    "options": ["Judea", "Samaria", "Galilea", "Perea"],
+    "answer": "Galilea"
+  },
+  {
+    "id": 5,
+    "question": "Quin fenomen climàtic imprevisible patia el Llac de Genesaret?",
+    "options": ["Es congelava a l'hivern", "Tempestes humides provocades per xocs de vents des de l'Hermon", "Maremots marins", "Absència total de vents"],
+    "answer": "Tempestes humides provocades per xocs de vents des de l'Hermon"
+  },
+  {
+    "id": 6,
+    "question": "La regió de Samaria se situava entre quines dues grans regions?",
+    "options": ["Entre Perea i la Decàpolis", "Entre Galilea al nord i Judea al sud", "Entre Judea i el desert del Nègeb", "Entre Fenícia i la costa"],
+    "answer": "Entre Galilea al nord i Judea al sud"
+  },
+  {
+    "id": 7,
+    "question": "Quina muntanya de Samaria (850 m) acollia el temple i centre de culte propi dels samaritans?",
+    "options": ["Mont Moria", "Mont Garizim", "Mont Carmel", "Mont d'Olives"],
+    "answer": "Mont Garizim"
+  },
+  {
+    "id": 8,
+    "question": "Quina és la depressió continental més profunda de tota la Terra (-430 m)?",
+    "options": ["El Llac Huleh", "La Mar Morta", "La vall de Siquem", "La plana de Saron"],
+    "answer": "La Mar Morta"
+  },
+  {
+    "id": 9,
+    "question": "A quina altitud aproximada se situa la ciutat de Jerusalem a les muntanyes de Judea?",
+    "options": ["200 m sota el nivell del mar", "Entre 750 i 800 m per sobre del nivell del mar", "1.500 m", "Al nivell del mar"],
+    "answer": "Entre 750 i 800 m per sobre del nivell del mar"
+  },
+  {
+    "id": 10,
+    "question": "Quina vall vorejava Jerusalem per l'est, separant la ciutat del Mont de les Oliveres?",
+    "options": ["Vall del Tyropeón", "Vall del Cedró", "Vall d'Hinnom", "Vall de Jezreel"],
+    "answer": "Vall del Cedró"
+  },
+  {
+    "id": 11,
+    "question": "Quantes estacions climàtiques principals es distingien a la Palestina del segle I?",
+    "options": ["Quatre estacions ben marcades", "Dues estacions (estiu sec i càlid, hivern plujós i fresc)", "Una única estació tropical", "Tres estacions"],
+    "answer": "Dues estacions (estiu sec i càlid, hivern plujós i fresc)"
+  },
+  {
+    "id": 12,
+    "question": "Com s'anomenava el vent eixut i càlid de la primavera procedent de l'est?",
+    "options": ["Siroco o sherquijje", "Tramuntana", "MISTRAL", "Ponent"],
+    "answer": "Siroco o sherquijje"
+  },
+  {
+    "id": 13,
+    "question": "Quina gran ruta comercial vorejava la costa i travessava Galilea connectant Egipte amb Síria?",
+    "options": ["El Camí del Rei", "La Via Maris", "La Ruta de la Seda", "La Via Àpia"],
+    "answer": "La Via Maris"
+  },
+  {
+    "id": 14,
+    "question": "On desemboca finalment el Riu Jordà després de recórrer la fossa tectònica?",
+    "options": ["Al Mar Mediterrani", "Al Llac de Genesaret", "A la Mar Morta", "Al riu Nil"],
+    "answer": "A la Mar Morta"
+  },
+  {
+    "id": 15,
+    "question": "Quines eren les dimensions aproximades del Llac de Genesaret?",
+    "options": ["50 km x 30 km", "21 km de llargada x 12 km d'amplada", "5 km x 2 km", "100 km x 50 km"],
+    "answer": "21 km de llargada x 12 km d'amplada"
+  },
+  {
+    "id": 16,
+    "question": "Quina ciutat de Judea era coneguda com l'oasi residencial dels sacerdots prop del Jordà?",
+    "options": ["Betlem", "Jericó", "Canà", "Natzaret"],
+    "answer": "Jericó"
+  },
+  {
+    "id": 17,
+    "question": "Quina de les següents franges NO pertany als quatre eixos orogràfics transversals de Palestina?",
+    "options": ["Les planes costaneres", "La serralada central", "La depressió del Jordà", "La tundra àrtica"],
+    "answer": "La tundra àrtica"
+  },
+  {
+    "id": 18,
+    "question": "Quin tipus d'aigua conté la Mar Morta i quina és la seva conseqüència biològica?",
+    "options": ["Aigua dolça rica en peixos", "Aigua hiper-salina que fa impossible la vida aquàtica", "Aigua congelada", "Aigua potable d'origen subterrani"],
+    "answer": "Aigua hiper-salina que fa impossible la vida aquàtica"
+  },
+  {
+    "id": 19,
+    "question": "Quina ciutat de Judea, situada a 8 km al sud de Jerusalem, va ser el lloc de naixement de Jesús?",
+    "options": ["Natzaret", "Betlem", "Samaria", "Cafarnaüm"],
+    "answer": "Betlem"
+  },
+  {
+    "id": 20,
+    "question": "Quina de les següents ciutats de Galilea era coneguda com la vila de pescadors i ciutat d'adopció de Jesús?",
+    "options": ["Natzaret", "Cafarnaüm", "Jerusalem", "Jericó"],
+    "answer": "Cafarnaüm"
+  }
+]
